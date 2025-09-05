@@ -25,9 +25,13 @@ It can answer questions about me, my work, and my experience in an interactive w
 
 personal-assistant/
 │── app.py # Main entry point
+
 │── requirements.txt # Python dependencies
+
 │── .env # API keys (ignored in git)
+
 │── data/ # My personal portfolio documents
+
 │── README.md # Project documentation
 
 
@@ -38,6 +42,7 @@ personal-assistant/
    ```bash
    git clone URL link
    cd personal-assistant
+
 
 
 
