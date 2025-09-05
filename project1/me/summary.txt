@@ -1,0 +1,1 @@
+I am a Programmer Analyst Trainee at Cognizant with a B.Tech in Information Technology degree (2025) and a strong foundation in Data Structures and Algorithms. My technical skills include Python, AWS, Linux, Docker, Kubernetes, and Terraform, with a focus on cloud-native development and DevOps practices.
